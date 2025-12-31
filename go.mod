@@ -3,7 +3,7 @@ module github.com/abreed05/goexpress-redis
 go 1.21
 
 require (
-	github.com/abreed05/goexpress v0.0.2
+	github.com/abreed05/goexpress v0.0.3
 	github.com/redis/go-redis/v9 v9.4.0
 )
 
